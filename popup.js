@@ -161,13 +161,17 @@ function fileItem(file) {
 }
 
 function render(result) {
-  content.innerHTML = "";
-  content.appendChild(makeSection("usedFonts", result.families, familyItem));
-  content.appendChild(makeSection("downloadable", result.files, fileItem));
+  content.replaceChildren(
+    makeSection("usedFonts", result.families, familyItem),
+    makeSection("downloadable", result.files, fileItem)
+  );
 }
 
 function showStatus(key) {
-  content.innerHTML = `<p class="status">${t(key)}</p>`;
+  const p = document.createElement("p");
+  p.className = "status";
+  p.textContent = t(key);
+  content.replaceChildren(p);
 }
 
 async function run() {
