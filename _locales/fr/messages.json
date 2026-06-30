@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "Détecteur de polices" },
+  "extDesc": { "message": "Détectez les polices utilisées sur n'importe quel site web et téléchargez les fichiers de police en un clic." },
+  "usedFonts": { "message": "Polices utilisées" },
+  "downloadable": { "message": "Fichiers téléchargeables" },
+  "noFonts": { "message": "Aucune police détectée" },
+  "noFiles": { "message": "Aucun fichier de police téléchargeable" },
+  "scanning": { "message": "Analyse…" },
+  "download": { "message": "Télécharger" },
+  "copy": { "message": "Copier" },
+  "copied": { "message": "Copié !" },
+  "rescan": { "message": "Relancer l'analyse" },
+  "unsupported": { "message": "Cette page ne peut pas être analysée" },
+  "error": { "message": "Une erreur est survenue" },
+  "donate": { "message": "Faire un don" }
+}

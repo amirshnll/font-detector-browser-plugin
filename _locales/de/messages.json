@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "Schrift-Detektor" },
+  "extDesc": { "message": "Erkenne die auf jeder Website verwendeten Schriften und lade die Schriftdateien mit einem Klick herunter." },
+  "usedFonts": { "message": "Verwendete Schriften" },
+  "downloadable": { "message": "Herunterladbare Dateien" },
+  "noFonts": { "message": "Keine Schriften erkannt" },
+  "noFiles": { "message": "Keine herunterladbaren Schriftdateien" },
+  "scanning": { "message": "Scanne…" },
+  "download": { "message": "Herunterladen" },
+  "copy": { "message": "Kopieren" },
+  "copied": { "message": "Kopiert!" },
+  "rescan": { "message": "Erneut scannen" },
+  "unsupported": { "message": "Diese Seite kann nicht gescannt werden" },
+  "error": { "message": "Etwas ist schiefgelaufen" },
+  "donate": { "message": "Spenden" }
+}

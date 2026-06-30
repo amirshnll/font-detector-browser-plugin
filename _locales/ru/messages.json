@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "Детектор шрифтов" },
+  "extDesc": { "message": "Определяйте шрифты на любом сайте и скачивайте файлы шрифтов одним кликом." },
+  "usedFonts": { "message": "Используемые шрифты" },
+  "downloadable": { "message": "Файлы для скачивания" },
+  "noFonts": { "message": "Шрифты не обнаружены" },
+  "noFiles": { "message": "Нет файлов шрифтов для скачивания" },
+  "scanning": { "message": "Сканирование…" },
+  "download": { "message": "Скачать" },
+  "copy": { "message": "Копировать" },
+  "copied": { "message": "Скопировано!" },
+  "rescan": { "message": "Сканировать снова" },
+  "unsupported": { "message": "Эту страницу нельзя просканировать" },
+  "error": { "message": "Что-то пошло не так" },
+  "donate": { "message": "Поддержать" }
+}

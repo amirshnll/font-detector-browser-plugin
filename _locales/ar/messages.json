@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "كاشف الخطوط" },
+  "extDesc": { "message": "اكتشف الخطوط المستخدمة في أي موقع وحمّل ملفات الخطوط بنقرة واحدة." },
+  "usedFonts": { "message": "الخطوط المستخدمة" },
+  "downloadable": { "message": "ملفات قابلة للتنزيل" },
+  "noFonts": { "message": "لم يتم اكتشاف خطوط" },
+  "noFiles": { "message": "لا توجد ملفات خطوط قابلة للتنزيل" },
+  "scanning": { "message": "جارٍ الفحص…" },
+  "download": { "message": "تنزيل" },
+  "copy": { "message": "نسخ" },
+  "copied": { "message": "تم النسخ!" },
+  "rescan": { "message": "إعادة الفحص" },
+  "unsupported": { "message": "لا يمكن فحص هذه الصفحة" },
+  "error": { "message": "حدث خطأ ما" },
+  "donate": { "message": "تبرع" }
+}

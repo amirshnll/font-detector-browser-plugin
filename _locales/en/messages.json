@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "Font Detector" },
+  "extDesc": { "message": "Detect the fonts used on any website and download the font files in one click." },
+  "usedFonts": { "message": "Used fonts" },
+  "downloadable": { "message": "Downloadable files" },
+  "noFonts": { "message": "No fonts detected" },
+  "noFiles": { "message": "No downloadable font files" },
+  "scanning": { "message": "Scanning…" },
+  "download": { "message": "Download" },
+  "copy": { "message": "Copy" },
+  "copied": { "message": "Copied!" },
+  "rescan": { "message": "Rescan" },
+  "unsupported": { "message": "This page can't be scanned" },
+  "error": { "message": "Something went wrong" },
+  "donate": { "message": "Donate" }
+}

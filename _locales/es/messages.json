@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "Detector de fuentes" },
+  "extDesc": { "message": "Detecta las fuentes usadas en cualquier sitio web y descarga los archivos de fuente con un clic." },
+  "usedFonts": { "message": "Fuentes usadas" },
+  "downloadable": { "message": "Archivos descargables" },
+  "noFonts": { "message": "No se detectaron fuentes" },
+  "noFiles": { "message": "Sin archivos de fuente descargables" },
+  "scanning": { "message": "Analizando…" },
+  "download": { "message": "Descargar" },
+  "copy": { "message": "Copiar" },
+  "copied": { "message": "¡Copiado!" },
+  "rescan": { "message": "Volver a analizar" },
+  "unsupported": { "message": "Esta página no se puede analizar" },
+  "error": { "message": "Algo salió mal" },
+  "donate": { "message": "Donar" }
+}

@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "تشخیص‌دهنده فونت" },
+  "extDesc": { "message": "فونت‌های استفاده‌شده در هر وب‌سایت را تشخیص دهید و فایل‌های فونت را با یک کلیک دانلود کنید." },
+  "usedFonts": { "message": "فونت‌های استفاده‌شده" },
+  "downloadable": { "message": "فایل‌های قابل دانلود" },
+  "noFonts": { "message": "هیچ فونتی پیدا نشد" },
+  "noFiles": { "message": "فایل فونت قابل دانلودی یافت نشد" },
+  "scanning": { "message": "در حال بررسی…" },
+  "download": { "message": "دانلود" },
+  "copy": { "message": "کپی" },
+  "copied": { "message": "کپی شد!" },
+  "rescan": { "message": "بررسی مجدد" },
+  "unsupported": { "message": "این صفحه قابل بررسی نیست" },
+  "error": { "message": "خطایی رخ داد" },
+  "donate": { "message": "حمایت مالی" }
+}

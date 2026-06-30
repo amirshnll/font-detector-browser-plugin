@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "フォント検出ツール" },
+  "extDesc": { "message": "あらゆるウェブサイトで使われているフォントを検出し、フォントファイルをワンクリックでダウンロードします。" },
+  "usedFonts": { "message": "使用中のフォント" },
+  "downloadable": { "message": "ダウンロード可能なファイル" },
+  "noFonts": { "message": "フォントが見つかりません" },
+  "noFiles": { "message": "ダウンロード可能なフォントファイルはありません" },
+  "scanning": { "message": "スキャン中…" },
+  "download": { "message": "ダウンロード" },
+  "copy": { "message": "コピー" },
+  "copied": { "message": "コピーしました！" },
+  "rescan": { "message": "再スキャン" },
+  "unsupported": { "message": "このページはスキャンできません" },
+  "error": { "message": "問題が発生しました" },
+  "donate": { "message": "寄付" }
+}

@@ -1,0 +1,16 @@
+{
+  "extName": { "message": "字体检测器" },
+  "extDesc": { "message": "检测任意网站使用的字体，一键下载字体文件。" },
+  "usedFonts": { "message": "使用的字体" },
+  "downloadable": { "message": "可下载文件" },
+  "noFonts": { "message": "未检测到字体" },
+  "noFiles": { "message": "没有可下载的字体文件" },
+  "scanning": { "message": "扫描中…" },
+  "download": { "message": "下载" },
+  "copy": { "message": "复制" },
+  "copied": { "message": "已复制！" },
+  "rescan": { "message": "重新扫描" },
+  "unsupported": { "message": "无法扫描此页面" },
+  "error": { "message": "出错了" },
+  "donate": { "message": "捐赠" }
+}
