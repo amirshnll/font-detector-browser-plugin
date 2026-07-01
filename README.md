@@ -5,7 +5,7 @@ website and lets you download the font files (woff/woff2/ttf/otf/eot) in one cli
 
 ## Download
 
-- **Chrome / Edge / Brave:** []
+- **Chrome / Edge / Brave:** [https://chromewebstore.google.com/detail/mkpoaoahfjiichkbfgnpfljcopjglkfn?utm_source=item-share-cb]
 - **Firefox:** []
 
 ## Features
